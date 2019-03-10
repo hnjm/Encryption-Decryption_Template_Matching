@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546633994 source:c:\users\vlad\desktop\codeblocks\cryingimages\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
